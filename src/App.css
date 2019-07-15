@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Bahianita|DM+Serif+Display|Lato|Literata|Montserrat|Open+Sans|Roboto&display=swap');
+
+:root{
+  --primaryColor: orangered;
+  --secondaryColor: purple;
+  --mainTransition: all 0.2s ease-in-out;
+  --mainYellow: Yellow;
+  --mainBlack: Black;
+  --mainBrown: brown;
+}
